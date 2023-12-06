@@ -1,0 +1,10 @@
+{
+  "name": "thesis_on_architecture",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:doox911-opensource/thesis_on_architecture.git",
+  "license": "MIT",
+  "devDependencies": {
+    "dprint": "^0.43.2"
+  }
+}
